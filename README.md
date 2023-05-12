@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack. <br>💬 Ask me about MERN Stack & related.<br>📫 How to reach me roshan555routh@gmail.com<br>👨‍💻 Know more about me https://roshanaas.github.io/
+🌱 I’m currently learning MERN Stack. <br>💬 Ask me about MERN Stack & related.<br>📫 How to reach me roshan555routh@gmail.com<br>👨‍💻 Know more about me https://RoshanAAS.github.io/
 
 
 ## 🌐 Socials:
