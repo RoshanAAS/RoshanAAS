@@ -1,4 +1,4 @@
-# Hey There 👋, I'm Likhith!
+# Hey There 👋, I'm Roshan!
 
 
 An enthusiastic computer science engineer skilled in coding. Seeking to leverage solid skills in collaboration, communication & development as a programmer.
@@ -8,8 +8,8 @@ An enthusiastic computer science engineer skilled in coding. Seeking to leverage
 
 ## 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Front-end & Mobile App**.
-- 🌱 &nbsp; I’m currently learning Microservices & Distribtued Systems.
+- 🔭 &nbsp; I’m currently working on **FullStack**.
+- 🌱 &nbsp; I’m currently learning DBMS.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RoshanAAS?tab=repositories).
 - 💬 &nbsp; Ask me about anything reasonable, I am happy to help.
 - 💜 &nbsp; Things I like: Coding, Books, Automobiles, Exploring stuff....
